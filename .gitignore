@@ -1,0 +1,15 @@
+# Artefactos de build Maven
+target/
+*.class
+
+# IDE
+.idea/
+*.iml
+.vscode/
+*.launch
+
+# macOS
+.DS_Store
+
+# Logs jqwik (archivos de semilla de ejecuciones anteriores)
+.jqwik-database

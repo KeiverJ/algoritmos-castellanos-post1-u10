@@ -243,6 +243,9 @@ Este test **pasaría** con el bug del Paso 6 si los valores `1, 2, 3` casualment
 [INFO] Total time: 3.171 s
 ```
 
+![Resultado mvn test — BUILD SUCCESS](capturas/01-build-success.png)
+
+
 ### Conteo de tries por propiedad
 
 | Clase                        | Propiedad                              | Tries | Checks |
@@ -256,6 +259,8 @@ Este test **pasaría** con el bug del Paso 6 si los valores `1, 2, 3` casualment
 | ConsistentHashRingProperties | `migratedKeysGoOnlyToNewNode`          | 200   | 200    |
 | ConsistentHashRingProperties | `addThenRemoveRestoresOriginalRouting` | 200   | 200    |
 | RoundTripProperties          | `jsonRoundTrip`                        | 1000  | 1000   |
+
+![Tries por propiedad — salida jqwik](capturas/02-tries-por-propiedad.png)
 
 ---
 
