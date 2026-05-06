@@ -1,3 +1,0 @@
-Coloca aquí las capturas de pantalla con los nombres:
-  01-build-success.png       → salida final de mvn test (BUILD SUCCESS + Tests run: 9)
-  02-tries-por-propiedad.png → bloque jqwik con tries=1000/checks=1000 por propiedad

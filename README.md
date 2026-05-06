@@ -260,7 +260,10 @@ Este test **pasaría** con el bug del Paso 6 si los valores `1, 2, 3` casualment
 | ConsistentHashRingProperties | `addThenRemoveRestoresOriginalRouting` | 200   | 200    |
 | RoundTripProperties          | `jsonRoundTrip`                        | 1000  | 1000   |
 
-![Tries por propiedad — salida jqwik](capturas/02-tries-por-propiedad.png)
+![Tries por propiedad (Parte 1)](capturas/02-tries-por-propiedad%20%281%29.png)
+![Tries por propiedad (Parte 2)](capturas/02-tries-por-propiedad(2).png)
+![Tries por propiedad (Parte 3)](capturas/02-tries-por-propiedad(3).png)
+![Tries por propiedad (Parte 4)](capturas/02-tries-por-propiedad(4).png)
 
 ---
 
